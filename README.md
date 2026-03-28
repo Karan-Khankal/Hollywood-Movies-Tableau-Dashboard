@@ -97,7 +97,7 @@ hollywood-movies-tableau-dashboard/
 ## 🚀 How to View the Dashboard
 
 ### Option 1: Tableau Desktop
-1. Download `HollywoodsMostProfitableStories.twbx`
+1. Download `Hollywood_Movie_Dashboard.twb`
 2. Open with Tableau Desktop (version 2020.1 or later)
 3. Interact with filters and explore insights
 
