@@ -85,7 +85,7 @@ hollywood-movies-tableau-dashboard/
 │
 ├── README.md # Project documentation
 ├── HollywoodsMostProfitableStories.csv # Original dataset
-├── HollywoodsMostProfitableStories.twbx # Tableau workbook
+├── Hollywood_Movie_Dashboard.twbx # Tableau workbook
 │
 └── screenshots/ # Dashboard images
 ├── top_rated_by_genre.png
